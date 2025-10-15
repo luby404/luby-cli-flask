@@ -19,6 +19,6 @@
 Clone o repositório e instale o pacote com:
 
 ```bash
-git https://github.com/luby404/luby-cli-flask.git
+git clone https://github.com/luby404/luby-cli-flask.git
 cd luby
 pip install .
